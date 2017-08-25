@@ -1,0 +1,2613 @@
+<?xml version="1.0" ?>
+<?xml:stylesheet type="text/xsl" href="beers.xsl" ?>
+<collection>
+  <beer>
+    <Name>Edition 2005</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>12th Anniversary Undercover Investigation Shut-Down Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>3 Monts</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Abbaye Des Rocs Grand Cru</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Abita Purple Haze</Name>
+    <Brewer>Abita Brewing Company</Brewer>
+    <URL>http://www.abita.com/</URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Abita Turbo Dog</Name>
+    <Brewer>Abita Brewing Company</Brewer>
+    <URL>http://www.abita.com/</URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ace Pear Cider</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Affligem Blond</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Alaskan Amber</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Albany Pump House Grand Cru</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Allagash 10th Anniversary Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Allagash 11th Anniversary Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Allagash Barrel Aged Four</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Allagash Curieux</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Allagash FOUR</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Allagash Musette</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Allagash White</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Amstel Light</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Anchor Liberty Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Anchor Old Foghorn</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Anchor Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Anchor Steam Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Anchor Summer Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Arrogant Bastard Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Asahi Super Dry</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Aventinus</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Aventinus Weizen-Eisbock</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Avery Twelve - Saison Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Ayinger Altbairisch Dunkel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ayinger Br�u Weisse</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ayinger Oktober Fest-M�rzen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>B.B. Burgerbrau</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Bar Harbor Blueberry Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Bare Knuckle Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type>Irish-style dry stout</Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Bass &amp; Co Pale Ale</Name>
+    <Brewer>Bass Brewers Limited</Brewer>
+    <URL>http://www.bassale.com/</URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Bavaria Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Beamish Irish Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Beantown Nut Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Bear Republic Racer 5 IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Beck's</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+    <Photo />
+    <Type>German pilsner</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Beck's Dark</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+    <Photo />
+    <Type>Dark German pilsner</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Belhaven Scottish Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Berkshire Imperial Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Big Bear Black Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Bink Blonde</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Birra Moretti</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Black Label - Pabst</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Blanche De Brooklyn</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Blue Moon Belgian White</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Bluebird Bitter XB</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Boddington's Pub Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type>English pub ale</Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Bohemia - Cervecer�a Cuauht�moc Moctezuma, S.A. de C.V.</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Bombardier English Premium Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Boon Framboise</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Bornem Dubbel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brewhouse Brown Ale - Real Ale Brewing Co.</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn Black Chocolate Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn BLAST!</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type>Lager</Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn Monster Ale (2005)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn Pennant Ale '55</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn Pilsner</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type>Pilsner</Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn Smoked Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type>Porter</Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyn Winter Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brooklyner Weisse</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Brother Thelonious</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Bud Ice</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+      <Photo /><Type>American-style lager</Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Bud Light</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+      <Photo /><Type>American-style lager</Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Budweiser</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+      <Photo /><Type>American-style lager</Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>American Ale</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+    <Photo />
+    <Type>Ale</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Bush</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+    <Photo />
+    <Type>American-style lager</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Bush Lite</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+    <Photo />
+    <Type>American-style lager</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Bush Ambr�e (Scaldis)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Buzzard's Bay Golden Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Buzzard's Bay Island Export Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Buzzard's Bay Olde Buzzard Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Buzzard's Bay Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Calabaza Blanca</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's "The Wind Cried Mari" Scottish Heather Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Benevolence</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Cambridge Amber</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Charles River Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Great Pumpkin Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Hefeweizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Late Harvest IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Red God IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Tiger Bite</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cambridge Brewing Company's Tripel Threat Belgian Style Strong Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Bruocsella 1900 Grand Cru</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Fou' Foune</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Iris</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Kriek 100% Lambic</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Lou Pepe - Kriek</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Lou Pepe Framboise (2002)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Lou Pepe Gueuze - 2000</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Organic Gueuze</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Ros� De Gambrinus</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Saint Lamvinus</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Cantillon Vigneronne</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Caracole Ambr�e</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Carlsberg Elephant Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Celebrator Doppelbock</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Celis Pale Bock - Michigan Brewing Company</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Celis Raspberry</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Celis White - Michigan Brewing Company</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Chambly Noire</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Chateau Jiahu</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Chimay Cinq Cents (White/Whit)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Chimay Grande R�serve (Blue/Blauw)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Chimay Premi�re (Red/Rood)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Coal Porter - Atlantic Brewing Company</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Concord Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Coors Light</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Coors Original</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Corona Extra</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Corsendonk Pater/ Abbey Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Czech Rebel Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Czechvar</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dab Original</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Dark Star American Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>De Dolle Ara Bier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>De Dolle Oerbier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>De Dolle Stille Nacht Reserva 2000</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>De Koninck</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>De Ranke XX Bitter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Delirium Nocturnum</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Delirium Noel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Delirium Tremens</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Demolition 1800 Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dentergems Witbier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head 120 Minute IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head 90 Minute IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head Fort</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head Golden Shower</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head Immort Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head Indian Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head Pangaea</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head Punkin' Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head Raison D'�tre</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dogfish Head Shelter Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Dos Equis Amber</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Dos Equis Special Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Double Bastard Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Double Hoppy Illumination</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Drie Fonteinen Oude Gueuze</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Drie Fonteinen Oude Kriek (Bottle)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Drie Fonteinen Schaerbeekse Kriek</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Duchesse De Bourgogne</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Duvel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Edison Light Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Fireman's #4 - Real Ale Brewing Co.</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Flying Horse Royal Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Flying Dog Gonzo Imerial Porter</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Flying Dog Dogtoberfest Marzen</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Flying Dog Old Scratch Amber Ale</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Flying Dog Tire Biter Golden Ale</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Flying Dog Road Dog Porter</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Flying Dog In-Heat Wheat</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Flying Dog Snakebite IPA</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Flying Dog Doggie Style Pale Ale</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Flying Dog Horn Dog Barley Wine</Name>
+    <Brewer>Flying Dog Brewery</Brewer>
+    <URL>http://www.flyingdogales.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Foster's Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Founders Red's Rye</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Franziskaner Hefe-Weisse</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Franziskaner Hefe-Weisse Dunkel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Freak Out Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Full Moon Pale Rye Ale - Real Ale Brewing Co.</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Full Sail Amber</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Full Sail Rip Curl</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Fuller's ESB</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Fuller's London Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>George Killian's Irish Red</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Geuze Boon</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Girardin Gueuze 1882 Black Label</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Grolsch Premium Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Guinness Draught</Name>
+    <Brewer>Guinness Ltd.</Brewer>
+    <URL>http://www.guinness.com/</URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Guinness Extra Stout</Name>
+    <Brewer>Guinness Ltd.</Brewer>
+    <URL>http://www.guinness.com/</URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Gulden Draak</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hacker-Pschorr Hefe Weisse Nat�rtrub</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Harp Lager</Name>
+    <Brewer>Guinness Ltd.</Brewer>
+    <URL>http://www.guinness.com/</URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Belgian Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Bohemian Pilsner (100 Barrel Series #15)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Hibernian Style Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Kellerbier (100 Barrel Series #13)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Munich Dark</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Octoberfest Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Saison (100 Barrel Series #14)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Summer Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon UFO Hefeweizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Varius Strong Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Harpoon Winter Warmer 2003-2004</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>He'Brew Bittersweet Lenny's R.I.P.A</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>He'Brew Genesis 10:10</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Heineken Lager Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Hennepin</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Hitachino Nest Celebration Ale (2004)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hitachino Nest Japanese Classic Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hitachino Nest Real Ginger Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hitachino Nest Red Rice Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hitachino Nest Sweet Stout (Lacto)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hitachino Nest Weizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hitachino Nest White Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hoegaarden Original White Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Hop Rod Rye</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Hornsby's Draft Cider</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Houblon Chouffe Dobbelen IPA Tripel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Icehouse</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ipswich India Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>J.W. Dundee's Original Honey Brown</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>J.W. Lees Vintage Harvest Ale (2004)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Jalape�o Sunsplash Golden Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Jever Pilsener</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Ardennes Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Black Watch Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Bleu</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Bock</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Celtic Irish Red</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Colonial K�lsch</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Commercial Street Christmas Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Demon DPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Harvest Spice Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Heresy</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Irish Dry Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Loki's Winter Wheat</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Newtowne Nutbrown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Oktoberfest</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Provision Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Queen Bee Honey Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Saint Arnold's Abbey Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Three Threads Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Trippel Lindy</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's Weissbier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's West Side Wheat</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>John Harvard's XO Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Kastaar</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Keystone Ice</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Keystone Light</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Kingfisher Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Kirin Ichiban</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Knott Street Knutt Brown</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Kriek Boon</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Kriek De Ranke</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>L' Amour Du Jour</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>La Chouffe</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>La Folie</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>La Gnomette Part II</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>La Seigneuriale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Lammin Kataja Olut</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Lindeman's Cassis Lambic</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Lindeman's Framboise Lambic</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Lindeman's Gueuze Lambic</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Lindeman's Kriek Lambic</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Lindeman's Pomme Lambic</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Lindeman's P�che Lambic</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Lindemans Gueuze Cuv�e Ren�</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Live Oak Big Bark Amber Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Live Oak HefeWeizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Live Oak Liberation</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Live Oak Oaktoberfest</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Live Oak Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Live Oak Pilz</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Lone Star, The National Beer of Texas</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Long Trail Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Long Trail Blackbeary Wheat</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Long Trail Hit The Trail Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Luci�rnaga</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Magic Hat's Kerouac</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Magic Hat #9</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>05/18/2008</Date><Notes /></beer>
+  <beer>
+    <Name>Magic Hat Batch 374</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Magic Hat Blind Faith</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Magic Hat Circus Boy</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Magic Hat Fat Angel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Magic Hat Hocus Pocus</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Magic Hat Jinx</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Maredsous 10</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Maredsous 8</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Matilda</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Maximus</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>McChouffe</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>McEwan's Scotch Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Merry Monks' Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Michelob Ultra</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+    <Photo />
+    <Type>European-style light lager</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Michelob Light</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+    <Photo />
+    <Type>European-style light lager</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Michelob AmberBock</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+    <Photo />
+    <Type>American bock-style dark lager</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Michelob</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+    <Photo />
+    <Type>European-style lager</Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Michelob Dark</Name>
+    <Brewer>Anheuser-Busch</Brewer>
+    <URL>http://www.anheuser-busch.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>??/??/??</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Midas Touch Golden Elixir</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Miller High Life</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Miller Lite</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Milly's 4th Anniversary Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Milly's Brown-noser</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Milwaukee's Best Light</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Modelo Especial</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Molson Canadian Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Monk's Cafe Flemish Sour Red Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Monty Python's Holy Grail Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Moosehead Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Murphy's Irish Amber (Now Irish Red)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Mythos Hellenic Lager Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Napoleon's Waterloo</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Natural Light</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ned Flanders</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Negra Modelo</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium 1554 Brussels Style Black Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium 2 Below Winter Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium Abbey Belgian Style Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium Blue Paddle Pilsener Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium Fat Tire Amber Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium Frambozen Raspberry Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium Loft Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium Porch Swing Single Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium Sunshine Wheat</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>New Belgium Trippel Belgian Style Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Newcastle Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Nostradamus</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Oak Aged Yeti Imperial Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Obbie's Grand Cru</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Old Man Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Old Speckled Hen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ommegang</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ommegang Bier De Mars</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Ommegang Rare Vos</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Ommegang Three Philosophers Belgian Style Blend</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ommegang Winter Witte</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Ommegang Witte</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ommegeddon</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Oro De Calabaza</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Orval Trappist Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Otter Creek Copper Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Otter Creek Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Otter Creek Stovepipe Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Our Special Ale 2004 (Anchor Christmas Ale)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Pabst Blue Ribbon</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Palm</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Paulaner Hefe-Weizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Paulaner Oktoberfest-Bier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Paulaner Original M�nchner</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Paulaner Premium Pils</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Paulaner Salvator Doppel Bock</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Peroni Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Pete's Wicked Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Pete's Wicked Wanderlust Cream Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Pilsner Urqeull</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Post Road Pumpkin Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Pyramid Hefeweizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Pyramid Snow Cap</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Quilmes</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Radeberger Pilsner</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rapscallion Premier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Red Hook ESB</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Red Hook Hefe-Weisse</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Red Stripe Jamaican Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Redhook Blackhook Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Redhook Blonde</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Redhook IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Redhook Winterhook Winter Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Rheingold Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Ridgeway Bitter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Ridgeway IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rio Blanco Pale Ale - Real Ale Brewing Co.</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rock Bottom Brewery's Liquid Happiness</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rodenbach Classic</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rodenbach Grand Cru</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rogue American Amber Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Rogue Brutal Bitter Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rogue Chipotle Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rogue Chocolate Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Rogue Dead Guy Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Rogue FestiveAle</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Rogue Hazelnut Brown Nectar</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Rogue Imperial Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Rogue Shakespeare Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Rolling Rock Extra Pale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ruedrich's Red Seal Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Saint Arnold Amber Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Saint Arnold Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Saint Arnold Kristall Weizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Saint Arnold Lawn Mower Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Saint Arnold Oktoberfest</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Saison De Brooklyn</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Saison Dupont</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Salvation</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Sam Adams Light</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Sam Adams Nut Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Sam Adams Utopias</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Black Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Boston Ale (Stock Ale)</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Boston Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Cherry Wheat</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Chocolate Bock</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Octoberfest</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Scotch Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Summer Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Triple Bock</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Weiss Bier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Adams Winter Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Smith's Old Brewery Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Smith's Winter Welcome Ale 2003-2004</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Smith Nut Brown Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Samuel Smith Oatmeal Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>San Miguel Premium Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Sapporo Original Draft Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Satan Red</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Schlitz</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Sea Dog Pumpkin Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Sea Dog Riverdriver Hazelnut Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shade Grown Coffee Porter - Real Ale Brewing Co.</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shiner 96</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shiner Blonde</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shiner Bock</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Shiner Hefe-Weizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shiner Light</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shiner Summer Stock</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shiner Winter Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shipyard Brewing Co. Export Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Shipyard IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Sierra Nevada Celebration Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Sierra Nevada India Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Sierra Nevada Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Sierra Nevada Wheat Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Sinebrychoff Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Singha</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Sixpoint Grand Cr�e</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Sixpoint Sweet Action</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Slaapmutske Triple Nightcap</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Smithwick's Authentic Irish Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Smuttynose "Finest Kind" IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Smuttynose Big A IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Smuttynose Farmhouse Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Smuttynose Imperial Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Smuttynose Old Brown Dog Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Smuttynose Portsmouth Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Smuttynose Pumpkin Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Southampton Grand Cru</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Spaten Oktoberfestbier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Spaten Optimator</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>St. Bernardus Abt 12</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>St. Bernardus Prior 8</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>St. Bernardus Tripel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>St. Bernardus Witbier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>St. Pauli Girl</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Stella Artois</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Stone 04.04.04 Vertical Epic Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Stone 06.06.06 Vertical Epic Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Stone IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Stone Smoked Porter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Substance D</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Taj Mahal Premium Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Tecate</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>The People's Pint Spring IPA</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Theakston Old Peculier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Tiger Beer</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Times Square Brewery's Dunkel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Times Square Brewery's Fire Brick Red Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Trader Joe's Vienna Style Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Trader Joe's Winterfest Dark Doublebock Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Trappist Achel 8 Brune</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Trappist Westvleteren 8</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Trappist Westvleteren Blonde</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Trappistes Rochefort 10</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Trappistes Rochefort 6</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Trappistes Rochefort 8</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Tripel Karmeliet</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Tsingtao</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>UFO Raspberry Hefeweizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue �ph�m�re Cassis</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue �ph�m�re Pomme</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue 10</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue 11</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue 15</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue Blanch de Chambly</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue Don de Dieu</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue Edition 2004</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue La Fin Du Monde</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue La Terrible</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue Maudite</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue Quelque Chose</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Unibroue Trois Pistoles</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Upper Canada Dark Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Vichtenaar</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Victory Prima Pils</Name>
+    <Brewer>Victory</Brewer>
+    <URL>http://www.victorybeer.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date></Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Victory HopDevil Ale</Name>
+    <Brewer>Victory</Brewer>
+    <URL>http://www.victorybeer.com/</URL>
+    <Photo />
+    <Type></Type>
+    <Date>05/14/2009</Date>
+    <Notes />
+  </beer>
+  <beer>
+    <Name>Vino's Firehouse Pale Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Vino's Six Bridges Cream Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Vuuve</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Wachusett Blueberry Ale</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Warsteiner Premium Dunkel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Warsteiner Premium Verum</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Weihenstephaner Hefeweissbier</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Weihenstephaner Korbinian</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Westmalle Trappist Dubbel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Westmalle Trappist Tripel</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>White Rascal</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Widmer Brothers Hefeweizen</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>World Wide Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Yeti Imperial Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Young's Bitter</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Young's Luxury Double Chocolate Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Young's Oatmeal Stout</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Yuengling Traditional Lager</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type>Lager</Type><Date>??/??/??</Date><Notes /></beer>
+  <beer>
+    <Name>Ziegenbock Amber</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+  <beer>
+    <Name>Zinnebir</Name>
+    <Brewer></Brewer>
+    <URL></URL>
+      <Photo /><Type></Type><Date></Date><Notes /></beer>
+</collection>
